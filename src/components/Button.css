@@ -1,0 +1,25 @@
+.button {
+    height: 4em;
+    width: 4em;
+    min-width: 50px;
+    min-height: 50px;
+    display: flex;
+    flex: 1;
+    margin: 1%;
+    font-size: large;
+    justify-content: center;
+    align-items: center;
+}
+
+.standard {
+    background-color: bisque;
+    color: cornflowerblue;
+    outline: 2px solid cornflowerblue;
+}
+
+.functional {
+    background-color: cornflowerblue;
+    color: bisque;
+    outline: 2px solid #000000;
+}
+
